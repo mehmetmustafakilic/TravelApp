@@ -63,7 +63,7 @@
                     <tabBarItem key="tabBarItem" title="" image="Vector" selectedImage="nav bar button (1)" id="kcM-Ir-laU"/>
                     <connections>
                         <outlet property="searchBar" destination="YCq-Rr-CVc" id="a6j-Rc-13L"/>
-                        <outlet property="searchTableView" destination="dVg-ds-aKP" id="F8H-2W-aLo"/>
+                        <outlet property="searchTableVew" destination="dVg-ds-aKP" id="7rS-hU-TUi"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xOi-BG-m9u" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
